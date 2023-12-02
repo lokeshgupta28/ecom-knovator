@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+      "name": "iPhone 13",
+      "description": "The latest iPhone with A15 Bionic chip and dual-camera system.",
+      "price": "₹59,900.00",
+      "image": "https://lh3.googleusercontent.com/spp/ABYooDruitNAhRkAF6NLYlZ_CKC6UyN3JBjuPM6t4cAC5vaHE-v-4bglegQEGxcyknhVE1TgfXTdvI9Ht4glq6vasR63wTv0F9-s5qgcIJ6N0Ju_b472YHGapRv7ARtUFFzzK-BivXuFKOL1mXyXG4ipoQfTtvBgaRePDp3ZnVYj1182MLEXt-arnEGr1zFKNIwsVCtqTtfksg=s512-rw-pd-pc0x00ffffff"
+    },
+    {
+        "id":2,
+      "name": "Samsung Galaxy S21",
+      "description": "A powerful Android smartphone with a 108MP camera.",
+      "price": "₹33,397.00",
+      "image": "https://lh3.googleusercontent.com/spp/ABYooDoOTkt8fKXmP73loC12Cv_KWXntrV1EtI4zzHjA0kEP2EWZVkWTe1SXr4vmiyU0cTDkFD9s9i0-c7iBLCSZRdky0-6NadPdistwxNMohTUS3VsgoEf5eE9fvYNpG6daQ3jJP9Jp4sPFzvYNZpVnrc_8ZPaORP26VvnqL1aB4KbbvHKvDEgAsGsmY4YOjVQ7TS-3Y7RGzQ=s512-rw-pd-pc0x00ffffff"
+    },
+    {
+        "id":3,
+      "name": "Google Pixel 6",
+      "description": "Featuring Google's Tensor chip and an impressive camera system.",
+      "price":"₹27,999.00",
+      "image": "https://m.media-amazon.com/images/I/71QQZr2pNSL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id":4,
+      "name": "OnePlus 9",
+      "description": "Flagship killer with Hasselblad camera.",
+      "price": "₹39,999.00",
+      "image": "https://lh3.googleusercontent.com/spp/ABYooDrKL6lrSjatoSAtXwDZo6AU5XyvZef5dUVq9DNNNDqIWrEfD4slBcH__CAQCjwPW2dGyNyHcx29sAJB5ZTij490tSizk7Vq_d_nmO5tCNvJAQR8h9pY4ZD_CXkD3Hawekj6PsUNP_IOeniogpTmU6bwkCLKSdOtAtDGATj70Ip6oO8I3tt0NBKK8Bwvw8sPGAv0E0NQEQ=s512-rw-pd-pc0x00ffffff"
+    }
+  ]
+  
