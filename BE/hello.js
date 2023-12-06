@@ -1,5 +1,7 @@
-function lucky(){
-    console.log('hello lucky')
-}
 
-lucky();
+var name = 'lucky'
+
+function greetings(lucky){
+    console.log('hello',lucky)
+}
+greetings(name)
